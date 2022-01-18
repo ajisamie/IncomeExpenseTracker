@@ -1,0 +1,6 @@
+framework module Pods_IncomeExpenseTracker_IncomeExpenseTrackerUITests {
+  umbrella header "Pods-IncomeExpenseTracker-IncomeExpenseTrackerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
