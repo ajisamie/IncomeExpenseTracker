@@ -1,11 +1,13 @@
 {
   "images" : [
     {
+      "filename" : "iOS-7-Icon-Grid.60x60.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "iOS-7-Icon-Grid.40x40.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
@@ -31,6 +33,7 @@
       "size" : "40x40"
     },
     {
+      "filename" : "iOS-7-Icon-Grid.120.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
@@ -71,21 +74,25 @@
       "size" : "40x40"
     },
     {
+      "filename" : "iOS-7-Icon-Grid.76.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "76x76"
     },
     {
+      "filename" : "iOS-7-Icon-Grid.152.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "76x76"
     },
     {
+      "filename" : "iOS-7-Icon-Grid.167@.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "iOS-7-Icon-Grid.1024.jpg",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
